@@ -1,0 +1,11 @@
+C:\Users\sorren\Documents\Visual Studio 2013\Projects\BillsAndBudgetingOpeningForm\BillsAndBudgetingOpeningForm\bin\Release\BillsAndBudgeting.exe.config
+C:\Users\sorren\Documents\Visual Studio 2013\Projects\BillsAndBudgetingOpeningForm\BillsAndBudgetingOpeningForm\obj\Release\BillsAndBudgeting.frmBillsAndBudgetMain.resources
+C:\Users\sorren\Documents\Visual Studio 2013\Projects\BillsAndBudgetingOpeningForm\BillsAndBudgetingOpeningForm\obj\Release\BillsAndBudgeting.frmAddBill.resources
+C:\Users\sorren\Documents\Visual Studio 2013\Projects\BillsAndBudgetingOpeningForm\BillsAndBudgetingOpeningForm\obj\Release\BillsAndBudgeting.frmAddIncome.resources
+C:\Users\sorren\Documents\Visual Studio 2013\Projects\BillsAndBudgetingOpeningForm\BillsAndBudgetingOpeningForm\obj\Release\BillsAndBudgeting.frmBillsReport.resources
+C:\Users\sorren\Documents\Visual Studio 2013\Projects\BillsAndBudgetingOpeningForm\BillsAndBudgetingOpeningForm\obj\Release\BillsAndBudgeting.frmIncomeReport.resources
+C:\Users\sorren\Documents\Visual Studio 2013\Projects\BillsAndBudgetingOpeningForm\BillsAndBudgetingOpeningForm\obj\Release\BillsAndBudgeting.Resources.resources
+C:\Users\sorren\Documents\Visual Studio 2013\Projects\BillsAndBudgetingOpeningForm\BillsAndBudgetingOpeningForm\obj\Release\BillsAndBudgeting.vbproj.GenerateResource.Cache
+C:\Users\sorren\Documents\Visual Studio 2013\Projects\BillsAndBudgetingOpeningForm\BillsAndBudgetingOpeningForm\obj\Release\BillsAndBudgeting.exe
+C:\Users\sorren\Documents\Visual Studio 2013\Projects\BillsAndBudgetingOpeningForm\BillsAndBudgetingOpeningForm\obj\Release\BillsAndBudgeting.xml
+C:\Users\sorren\Documents\Visual Studio 2013\Projects\BillsAndBudgetingOpeningForm\BillsAndBudgetingOpeningForm\obj\Release\BillsAndBudgeting.pdb

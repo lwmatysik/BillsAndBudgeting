@@ -1,0 +1,2 @@
+C:\Users\sorren\AppData\Local\Temporary Projects\BillsAndBudgetingOpeningForm\bin\Debug\BillsAndBudgetingOpeningForm.exe.config
+C:\Users\sorren\Documents\Visual Studio 2013\Projects\BillsAndBudgetingOpeningForm\BillsAndBudgetingOpeningForm\bin\Debug\BillsAndBudgetingOpeningForm.exe.config
